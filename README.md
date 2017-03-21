@@ -1,5 +1,9 @@
+Traduccion al español del plugin
+
 Reset Password Dialogue for Alfresco Share
 ==========================================
+
+git push origin master
 
 Author: Will Abson
 
