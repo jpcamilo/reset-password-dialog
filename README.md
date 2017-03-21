@@ -3,8 +3,6 @@ Traduccion al español del plugin
 Reset Password Dialogue for Alfresco Share
 ==========================================
 
-git push origin master
-
 Author: Will Abson
 
 This project provides a customised login page for Alfresco Share, including a password reset dialog that can be used to recover a lost password.
