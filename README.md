@@ -43,6 +43,8 @@ To build the JAR file, run Ant from the base project directory.
 
     ant dist-jar
 
+  ![reset-password-dialog-2.1.0.jar](reset-password-dialog-2.1.0.jar)
+
 The command should build a JAR file named `reset-password-dialog-<version>.jar` in the `build/dist` directory within your project, which you can then copy into the `tomcat/shared/lib` folder of your Alfresco installation.
 
 Alternatively, you can use the build script to _hot deploy_ the JAR file directly into a local Tomcat instance for testing. You will need to use the `hotcopy-tomcat-jar task` and set the `tomcat.home` property in Ant.
